@@ -17,14 +17,5 @@
 		<key>TISIntendedLanguage</key>
 		<string>cs</string>
 	</dict>
-	<key>KLInfo_U.S. - Slovak</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.u.s.-czech.u.s.-slovak</string>
-		<key>TISIntendedLanguage</key>
-		<string>sk</string>
-	</dict>
 </dict>
 </plist>
